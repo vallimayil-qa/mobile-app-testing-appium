@@ -1,0 +1,3 @@
+id,name,link,title_xpath,price_xpath,color_xpath
+1,cookware_set_flipkart,https://www.flipkart.com/pigeon-non-stick-coated-cookware-set/p/itm5843021bc2f05?,"//h1[contains(@class, 'v1zwn21k')]","//div[@class='v1zwn21k v1zwn20 _1psv1zeb9 _1psv1ze0']","//div[contains(text(),'Selected Color')]/following-sibling::div[text()='Maroon']"
+2,cookware_set_lehlah,https://web.lehlah.club/s/2ui5bxd,"//h1[contains(@class, 'v1zwn21k')]","//div[@class='v1zwn21k v1zwn20 _1psv1zeb9 _1psv1ze0']","//div[contains(text(),'Selected Color')]/following-sibling::div[text()='Maroon']"
